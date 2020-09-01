@@ -1,4 +1,4 @@
-# Life-Expectancy-Prediction-Using-Linera-Regression
+# Life-Expectancy-Prediction-Using-Linear-Regression
 Buildind a prediction model that will predict the 'Life Expectancy' based on various features such as status of country, GDP, Alcohol Consumption, Adult mortality rate, etc.
 
 # Methodology
